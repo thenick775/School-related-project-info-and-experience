@@ -16,3 +16,11 @@ Worked in X86 to implement sorting and searching algorithms, scheduling algorith
 Implemented the UNIX top command in xv6.
 
 Implemented timed I/O in XV6 to go along with the top command, in order to implement auto refresh.
+
+Classes:
+-Data Structures
+-Analysis of Algorithms
+-Formal Automata
+-Computer Architecture and Organization
+-Assembly and Systems Programming
+-Operating Systems
