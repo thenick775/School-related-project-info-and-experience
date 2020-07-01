@@ -26,13 +26,23 @@ Implemented a compiler for the Java language, written in Java. This project deal
 Worked on a simulation of the Java JVM virtual machine in Java: simulating the operand stack, processing the instructions of java byte code and executing them, along with processing user program threads.
 
 Classes:
+
 -Data Structures
+
 -Analysis of Algorithms
+
 -Formal Automata
+
 -Computer Architecture and Organization
+
 -Assembly and Systems Programming
+
 -Operating Systems
+
 -Compiler Construction
+
 -Artificial Intelligence
+
 -Linear Algebra
+
 -Physics (Newtonian Mechanics/Electromagnetics)
