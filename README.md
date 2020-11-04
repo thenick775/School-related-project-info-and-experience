@@ -25,6 +25,10 @@ Implemented a compiler for the Java language, written in Java. This project deal
 
 Worked on a simulation of the Java JVM virtual machine in Java: simulating the operand stack, processing the instructions of java byte code and executing them, along with processing user program threads.
 
+-Quorum iOS Bridge using MobiVM's RobmVM
+
+Integrated Robovm into the Quorum Language's gradle build structure, taking the existing JDK 8 compiler output and configuring the compiler for transpilation to objective-c, allowing for testing and future support on iOS devices packaged directly into the Quorum toolchain. 
+
 Classes taken:
 
 -Data Structures
