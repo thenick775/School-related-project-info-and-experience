@@ -29,6 +29,10 @@ Worked on a simulation of the Java JVM virtual machine in Java: simulating the o
 
 Integrated Robovm into the Quorum Language's gradle build structure, taking the existing JDK 8 compiler output and configuring the compiler for transpilation to objective-c, allowing for testing and future support on iOS devices packaged directly into the Quorum toolchain. 
 
+-Windows Forms Graphics Projects
+
+Completed various projects using C# and Windows Forms, including projects focused on raytracing, animation, rotation, movement and Mandlebrot/julia set graphing/interaction.
+
 Classes taken:
 
 -Data Structures
