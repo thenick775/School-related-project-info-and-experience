@@ -54,3 +54,8 @@ Classes taken:
 -Discrete Mathematics/Linear Algebra
 
 -Physics (Newtonian Mechanics/Electromagnetics)
+
+-Computer Graphics
+
+-Database Systems
+
