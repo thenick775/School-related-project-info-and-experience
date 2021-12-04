@@ -33,6 +33,10 @@ Integrated Robovm into the Quorum Language's gradle build structure, taking the 
 
 Completed various projects using C# and Windows Forms, including projects focused on raytracing, animation, rotation, movement and Mandlebrot/julia set graphing/interaction.
 
+-Genetic Algorithms/Machine Learning
+
+Completed various projects ranging from MNIST by hand (machine learning) to Travelling Salesman/Knapsack problem with genetic algorithms.
+
 -MPI Cluster Projects
  
 Completed various projects such as mandlebrot on a cluster, distributed waveform calculations, and pipeline/mesh matrix multiplication.
@@ -62,5 +66,7 @@ Classes taken:
 -Computer Graphics
 
 -Database Systems
+
+-Evolutionary Computing (Genetic Algorithms)
 
 -Multiprocessor Cluster Computing
