@@ -33,6 +33,10 @@ Integrated Robovm into the Quorum Language's gradle build structure, taking the 
 
 Completed various projects using C# and Windows Forms, including projects focused on raytracing, animation, rotation, movement and Mandlebrot/julia set graphing/interaction.
 
+-MPI Cluster Projects
+ 
+Completed various projects such as mandlebrot on a cluster, distributed waveform calculations, and pipeline/mesh matrix multiplication.
+
 Classes taken:
 
 -Data Structures
